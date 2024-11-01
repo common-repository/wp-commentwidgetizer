@@ -1,0 +1,1555 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP CommentWidgetizer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-15 16:15+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: phd <contact@photos-dauphine.com>\n"
+"Language-Team: phd <http://www.photos-dauphine.com/ecrire>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: C:\\Documents and Settings\\bruno.bourgeois\\My Documents\\Home\\Phd\\site_WP2.9.2\\wp-content\\plugins\\wp-commentwidgetizer\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-SearchPath-0: C:\\Documents and Settings\\bruno.bourgeois\\My Documents\\Home\\Phd\\site_WP2.9.2\\wp-content\\plugins\\wp-commentwidgetizer\n"
+
+#: C:\Documents
+#: and Settings\bruno.bourgeois\My
+#: Documents\Home\Phd\site_WP2.9.2\wp-content\plugins\wp-commentwidgetizer/commentwidgetizer.php:59
+msgid "Anonymous"
+msgstr "Anonyme"
+
+#: C:\Documents
+#: and Settings\bruno.bourgeois\My
+#: Documents\Home\Phd\site_WP2.9.2\wp-content\plugins\wp-commentwidgetizer/commentwidgetizer.php:62
+msgid "No comment yet available"
+msgstr "Aucun commentaire disponible"
+
+#: C:\Documents
+#: and Settings\bruno.bourgeois\My
+#: Documents\Home\Phd\site_WP2.9.2\wp-content\plugins\wp-commentwidgetizer/commentwidgetizer.php:97
+msgid "Title"
+msgstr "Titre"
+
+#: C:\Documents
+#: and Settings\bruno.bourgeois\My
+#: Documents\Home\Phd\site_WP2.9.2\wp-content\plugins\wp-commentwidgetizer/commentwidgetizer.php:99
+msgid "Post or page IDs (ex : 12,34)"
+msgstr "ID du ou des posts ou pages (ex : 12,34)"
+
+#: C:\Documents
+#: and Settings\bruno.bourgeois\My
+#: Documents\Home\Phd\site_WP2.9.2\wp-content\plugins\wp-commentwidgetizer/commentwidgetizer.php:101
+msgid "Comment selection method"
+msgstr "Méthode de sélection des commentaires"
+
+#: C:\Documents
+#: and Settings\bruno.bourgeois\My
+#: Documents\Home\Phd\site_WP2.9.2\wp-content\plugins\wp-commentwidgetizer/commentwidgetizer.php:103
+msgid "Random"
+msgstr "Aléatoire"
+
+#: C:\Documents
+#: and Settings\bruno.bourgeois\My
+#: Documents\Home\Phd\site_WP2.9.2\wp-content\plugins\wp-commentwidgetizer/commentwidgetizer.php:106
+msgid "Text (optional)"
+msgstr "Texte  (optionnel)"
+
+#: C:\Documents
+#: and Settings\bruno.bourgeois\My
+#: Documents\Home\Phd\site_WP2.9.2\wp-content\plugins\wp-commentwidgetizer/commentwidgetizer.php:116
+msgid "Displays any of the comments made on your site in the sidebar widget"
+msgstr "Affiche un commentaire dans la barre latérale à partir de commentaires sélectionnés sur votre site"
+
+#~ msgid ""
+#~ "PHP Version 4 is the minimum required on your server to run the "
+#~ "ImageTagger plugin."
+#~ msgstr ""
+#~ "Le serveur hébergeant le blog doit être équipé au minimum de la version "
+#~ "PHP 4 pour pouvoir faire fonctionner le plugin ImageTagger."
+
+#~ msgid "Version %s was detected on the server."
+#~ msgstr "La version %s a été détectée sur ce serveur."
+
+#~ msgid "Tag group definition : incorrect syntax (General)"
+#~ msgstr "Définition incorrecte des groupes de tags (Général)"
+
+#~ msgid ""
+#~ "The fields background color must be a valid hexadecimal color code as 3ff "
+#~ "or a1b160 (General)"
+#~ msgstr ""
+#~ "La couleur d'arrière-plan doit être codée sous un format hexadécimal "
+#~ "valide, de type 3ff ou 1b160 (Général)"
+
+#~ msgid ""
+#~ "The image frame pixel width must be an integer greater than 0 (Tag Editor)"
+#~ msgstr ""
+#~ "La taille de bordure d'image doit être un entier positif (Editeur de tags)"
+
+#~ msgid ""
+#~ "The image frame color must be a valid hexadecimal color code as 3ff or "
+#~ "a1b160 (Tag Editor)"
+#~ msgstr ""
+#~ "La couleur de bordure d'image doit être codée sous un format hexadécimal "
+#~ "valide, de type 3ff ou 1b160 (Editeur de tags)"
+
+#~ msgid ""
+#~ "The number of tags displayed by column must be an integer greater than 0 "
+#~ "(Tag Editor)"
+#~ msgstr ""
+#~ "Le nombre de tags affichés par colonne doit être un entier positif "
+#~ "(Editeur de tags)"
+
+#~ msgid ""
+#~ "The tag exclusion list must contain available tags separated by commas "
+#~ "(Tag Editor)"
+#~ msgstr ""
+#~ "La liste de noms de tags exclus doit comprendre des noms de tags "
+#~ "existants séparés par une virgule (Editeur de tags)"
+
+#~ msgid ""
+#~ "The maximum image pixel width or height must be an integer greater than "
+#~ "100 (Tag Editor)"
+#~ msgstr ""
+#~ "La taille d'image normalisée, égale à max(largeur, hauteur), doit être un "
+#~ "entier supérieur à 100 (Editeur de tags)"
+
+#~ msgid ""
+#~ "The number of tags displayed by column must be an integer greater than 0 "
+#~ "(Search format)"
+#~ msgstr ""
+#~ "Le nombre de tags affichés par colonne doit être un entier positif "
+#~ "(Format de recherche)"
+
+#~ msgid ""
+#~ "The search form font must be a positive integer expressed in pt (Search "
+#~ "format)"
+#~ msgstr ""
+#~ "La taille de fonte du formulaire doit être un entier positif (Format de "
+#~ "recherche)"
+
+#~ msgid ""
+#~ "The tag exclusion list must contain available tags separated by commas "
+#~ "(Search format)"
+#~ msgstr ""
+#~ "La liste de noms de tags exclus doit comprendre des noms de tags "
+#~ "existants séparés par une virgule (Format de recherche)"
+
+#~ msgid ""
+#~ "The maximum image pixel width or height must be an integer greater than "
+#~ "10 (Image list output format)"
+#~ msgstr ""
+#~ "La taille normalisée d'image doit être un entier positif supérieur à 10 "
+#~ "(Format résultat - Liste d'images)"
+
+#~ msgid ""
+#~ "The maximum image pixel width or height must be an integer greater than "
+#~ "10 (Gallery output format)"
+#~ msgstr ""
+#~ "La largeur ou hauteur d'image maximale doint être un entier supérieur à "
+#~ "10 (Format résultat - Galerie)"
+
+#~ msgid ""
+#~ "The number of tags displayed in the tag cloud must be an integer greater "
+#~ "than 0 ; if 0 all the tags are displayed (Search format)"
+#~ msgstr ""
+#~ "Le nombre de tags dans le nuage de tags doit être un entier positif ; "
+#~ "pour afficher tous les tags mettre 0 (Format de recherche)"
+
+#~ msgid ""
+#~ "Tag cloud minimum font size must be a positive integer (Search format)"
+#~ msgstr ""
+#~ "La taille de fonte minimum du nuage de tags doit être un entier positif "
+#~ "(Format de recherche)"
+
+#~ msgid ""
+#~ "Tag cloud maximum font size must be a positive integer (Search format)"
+#~ msgstr ""
+#~ "La taille de fonte maximum du nuage de tags doit être un entier positif "
+#~ "(Format de recherche)"
+
+#~ msgid ""
+#~ "The minimum tagcloud color must be a valid hexadecimal color code as 3ff "
+#~ "or a1b160, or -1 for not using dynamic colors (Search format)"
+#~ msgstr ""
+#~ "La couleur minimale du nuage de tags doit être codée sous un format "
+#~ "hexadécimal valide, de type 3ff ou 1b160, ou -1 pour désactiver la "
+#~ "coloration graduelle (Format de recherche)"
+
+#~ msgid ""
+#~ "The maximum tagcloud color must be a valid hexadecimal color code as 3ff "
+#~ "or a1b160, or -1 for not using dynamic colors (Search format)"
+#~ msgstr ""
+#~ "La couleur maximale du nuage de tags doit être codée sous un format "
+#~ "hexadécimal valide, de type 3ff ou 1b160, ou -1 pour désactiver la "
+#~ "coloration graduelle (Format de recherche)"
+
+#~ msgid ""
+#~ "Maximum tag cloud color forced to -1 to disable dynamic tag cloud colors "
+#~ "(minimum tag cloud color was manually set to -1)"
+#~ msgstr ""
+#~ "La couleur maximale du nuage de tags a été forcée à -1 pour désactiver la "
+#~ "coloration graduelle du nuage de tags (la valeur minimale a manuellement "
+#~ "été passée à -1)"
+
+#~ msgid ""
+#~ "Minimum tag cloud color forced to -1 to disable dynamic tag cloud colors "
+#~ "(maximum tag cloud color was manually set to -1)"
+#~ msgstr ""
+#~ "La couleur minimale du nuage de tags a été forcée à -1 pour désactiver la "
+#~ "coloration graduelle du nuage de tags (la valeur maximale a manuellement "
+#~ "été passée à -1)"
+
+#~ msgid ""
+#~ "The tag cloud highlighting font color must be a valid hexadecimal color "
+#~ "code as 3ff or a1b160, or -1 for no higlighting effect (Search format)"
+#~ msgstr ""
+#~ "La couleurde mise en valeur du nuage de tags doit être codée sous un "
+#~ "format hexadécimal valide, de type 3ff ou 1b160, ou -1 pour désactiver la "
+#~ "mise en valeur (Format de recherche)"
+
+#~ msgid ""
+#~ "The image frame pixel width must be an integer greater than 0 (Gallery "
+#~ "output format)"
+#~ msgstr ""
+#~ "L'épaisseur de bordure doit être un entier positif (Format résultat - "
+#~ "Galerie)"
+
+#~ msgid ""
+#~ "The image frame color must be a valid hexadecimal color code as 3ff or "
+#~ "a1b160 (Gallery output format)"
+#~ msgstr ""
+#~ "La couleur de bordure d'image doit être codée sous un format hexadécimal "
+#~ "valide, de type 3ff ou 1b160 (Format résultat - Galerie)"
+
+#~ msgid ""
+#~ "The number of images per page must be positive (Gallery output format)"
+#~ msgstr ""
+#~ "Le nombre d'images par page doit être entier positif (Format résultat - "
+#~ "Galerie)"
+
+#~ msgid ""
+#~ "The number of images per page must be positive (Image list output format)"
+#~ msgstr ""
+#~ "Le nombre d'images par page doit être strictement positif (Format "
+#~ "résultat - Liste d'images)"
+
+#~ msgid ""
+#~ "The number of image titles per page must be positive (Title list output "
+#~ "format)"
+#~ msgstr ""
+#~ "Le nombre de titres d'images par page doit être strictement positif "
+#~ "(Format résultat - Liste de titres)"
+
+#~ msgid "post has been updated with the image taxonomy."
+
+#~ msgid_plural "posts have been updated with the image taxonomy."
+#~ msgstr[0] "post a été mis à jour à partir de la taxinomie image."
+#~ msgstr[1] "posts ont été mis à jour à partir de la taxinomie image."
+
+#~ msgid "Tag Editor"
+#~ msgstr "Editeur de tags"
+
+#~ msgid "Image Explorer"
+#~ msgstr "Explorateur d'images"
+
+#~ msgid "Total number of images"
+#~ msgstr "Nombre total d'images"
+
+#~ msgid "Number of images tagged"
+#~ msgstr "Nombre d'images taggées"
+
+#~ msgid "Number of images remaining untagged"
+#~ msgstr "Nombre d'images restant à associer aux tags"
+
+#~ msgid "Switch to "
+#~ msgstr "Passer en mode "
+
+#~ msgid "Photo"
+#~ msgstr "Photo"
+
+#~ msgid "Description"
+#~ msgstr "Description"
+
+#~ msgid "Orphean image, not linked to any post"
+#~ msgstr "Image orpheline, contenue dans aucun post"
+
+#~ msgid "Tags image"
+#~ msgstr "Tags image"
+
+#~ msgid "None"
+#~ msgstr "Aucun"
+
+#~ msgid "Tags post"
+#~ msgstr "Tags post"
+
+#~ msgid "Set and Next"
+#~ msgstr "Associer et traiter image suivante"
+
+#~ msgid "Set"
+#~ msgstr "Associer"
+
+#~ msgid "Get"
+#~ msgstr "Relire"
+
+#~ msgid "Clear"
+#~ msgstr "Effacer"
+
+#~ msgid "Image"
+#~ msgstr "Image"
+
+#~ msgid "tagged with theme"
+
+#~ msgid_plural "tagged with themes"
+#~ msgstr[0] "associée au thème"
+#~ msgstr[1] "associée aux thèmes"
+
+#~ msgid "tags reset"
+#~ msgstr ": thèmes associés réinitialisés"
+
+#~ msgid "Post"
+#~ msgstr "Post"
+
+#~ msgid " tagged with theme"
+
+#~ msgid_plural " tagged with themes"
+#~ msgstr[0] " associé au thème"
+#~ msgstr[1] " associé aux thèmes"
+
+#~ msgid "image tags read from database."
+#~ msgstr "thèmes associés relus depuis la base de données."
+
+#~ msgid "No image matching this search."
+#~ msgstr "Aucune image ne correspond à cette recherche."
+
+#~ msgid "Displaying images"
+#~ msgstr "Sélectionner les images"
+
+#~ msgid "Display tagged images"
+#~ msgstr "Afficher les images taggées"
+
+#~ msgid "tagged"
+#~ msgstr "taggées"
+
+#~ msgid "Display untagged images"
+#~ msgstr "Afficher les images non taggées"
+
+#~ msgid "untagged"
+#~ msgstr "non taggées"
+
+#~ msgid "Display all images"
+#~ msgstr "Afficher toutes les images"
+
+#~ msgid "all"
+#~ msgstr "toutes"
+
+#~ msgid ""
+#~ "The search currently supports single keyword pattern - Search will be "
+#~ "done on image title and hosting post or page title"
+#~ msgstr ""
+#~ "La recherche fonctionne dans cette version avec un mot-clef unique - La "
+#~ "recherche est effectuée dans les titres d'images ou noms des posts ou "
+#~ "pages contenant l'image."
+
+#~ msgid "Images"
+#~ msgstr "Images"
+
+#~ msgid "to"
+#~ msgstr "à"
+
+#~ msgid "Previous"
+#~ msgstr "Précédent"
+
+#~ msgid "Next"
+#~ msgstr "Suivant"
+
+#~ msgid "Go to page"
+#~ msgstr "Aller à la page"
+
+#~ msgid "Tag image"
+#~ msgstr "Tagger l'image"
+
+#~ msgid "ImageTagger Options"
+#~ msgstr "ImageTagger - Options"
+
+#~ msgid "Hide"
+#~ msgstr "Masquer"
+
+#~ msgid "Show"
+#~ msgstr "Afficher"
+
+#~ msgid "options setup panel"
+#~ msgstr "le panneau de paramétrage d'options"
+
+#~ msgid "Invalid value restored to the last correct setting."
+
+#~ msgid_plural "Invalid values restored to the last correct settings."
+#~ msgstr[0] "Valeur d'option incorrecte et non prise en compte"
+#~ msgstr[1] "Valeurs d'options incorrectes et non prises en compte"
+
+#~ msgid "Options saved."
+#~ msgstr "Options sauvegardées"
+
+#~ msgid "General"
+#~ msgstr "Général"
+
+#~ msgid "Tagging source"
+#~ msgstr "Tags définis à partir des"
+
+#~ msgid "Tags"
+#~ msgstr "Tags"
+
+#~ msgid "Categories"
+#~ msgstr "Catégories"
+
+#~ msgid "Tags and categories"
+#~ msgstr "Tags et catégories"
+
+#~ msgid ""
+#~ "You can tag images either with your blog tags, with your categories, or "
+#~ "with your tags and categories merged together"
+#~ msgstr ""
+#~ "Les images peuvent être classifiées par mots-clefs correspondant aux tags "
+#~ "de votre blog, aux catégories, ou à l'ensemble des tags et catégories."
+
+#~ msgid "Tags groups"
+#~ msgstr "Groupements de tags"
+
+#~ msgid ""
+#~ "Optional : you can regroup the above tags by groups so that those tags "
+#~ "are displayed by groups. This applies to the tagging panel form as well "
+#~ "as to the search form. If you do not need to categorize your tags, keep "
+#~ "this field empty. Otherwise, use the following CSV syntax, one group "
+#~ "definition per line : "
+#~ msgstr ""
+#~ "Optionnel : vous pouvez rassembler les tags par groupe que ces tags "
+#~ "soient affichés selon les groupes définis. Ce réglage concerne le panneau "
+#~ "de classification et le formulaire de recherche. Par défaut, laissez ce "
+#~ "champ vide. Sinon, utilisez une syntaxe CSV avec une définition de groupe "
+#~ "par ligne :"
+
+#~ msgid "my_group1_name"
+#~ msgstr "mon_groupe_1"
+
+#~ msgid "my_group2_name"
+#~ msgstr "mon_groupe_2"
+
+#~ msgid ""
+#~ "Spaces do not matter - The tags not listed in these groups will be listed "
+#~ "at the end in the default category. Optionnally, you can name this "
+#~ "default category by adding as last line"
+#~ msgstr ""
+#~ "Les espaces n'influent pas - Les tags n'apparaissant dans aucun groupe "
+#~ "sont regroupés à la fin dans une catégorie par défaut. Optionnellement, "
+#~ "cette catégorie peut être nommée en ajoutant en dernière ligne"
+
+#~ msgid "my_default_group_name"
+#~ msgstr "mon_groupe_par_défaut"
+
+#~ msgid "(do not add anything after \"=\")"
+#~ msgstr "(ne rien mettre après  \"=\")"
+
+#~ msgid "Fields background color"
+#~ msgstr "Couleur de fond des titres au format hexadécimal"
+
+#~ msgid ""
+#~ "This color is used for the fields background in the tagging panel and "
+#~ "search form"
+#~ msgstr "Couleur de fond pour les champs titres"
+
+#~ msgid "Image taxonomy"
+#~ msgstr "Taxinomie image"
+
+#~ msgid "Override original post taxonomy with images taxonomy"
+#~ msgstr "Déduire les tags des  posts de l'union des tags  images"
+
+#~ msgid "Yes"
+#~ msgstr "Oui"
+
+#~ msgid "No"
+#~ msgstr "Non"
+
+#~ msgid "Carefully read this note"
+#~ msgstr "Lire ces informations avec attention"
+
+#~ msgid ""
+#~ "This option allows to let the image taxonomy defined with ImageTagger "
+#~ "supersede the post taxonomy provided as standard by WordPress"
+#~ msgstr ""
+#~ "Cette option permet de paramétrer automatiquement les tags associés aux "
+#~ "posts à partir des tags associés aux images de ces posts par ImageTagger"
+
+#~ msgid ""
+#~ "If you activate this feature : every time you tag an image from the "
+#~ "ImageTagger editor"
+#~ msgstr ""
+#~ "Si vous activez cette fonctionnalité : chaque fois que vous taggez une "
+#~ "image dans l'éditeur de tag ImageTagger"
+
+#~ msgid ""
+#~ "the post containing this image will be associated to the tag list formed "
+#~ "from a logical OR between all the tags set on the images contained in the "
+#~ "post"
+#~ msgstr ""
+#~ "le post contenant cette image sera associé à la liste de tags égale à "
+#~ "l'union de tous les tags associés aux images contenues dans le post"
+
+#~ msgid ""
+#~ "Any former tag manually set on the post will be lost and supersed by this "
+#~ "logical image taxonomy combination"
+#~ msgstr ""
+#~ "Les tags manuellement associés au post seront écrasés par cette "
+#~ "combinaison de taxinomies image"
+
+#~ msgid ""
+#~ "For that reason you should backup your WordPress database before the "
+#~ "first activation of this feature"
+#~ msgstr ""
+#~ "Pour cette raison, il est fortement conseillé de sauvegarder la base de "
+#~ "données avant les premiers essais de cette fonctionnalité"
+
+#~ msgid "Preview the Image Taxonomy scheme"
+#~ msgstr "Prévisualiser la taxinomie image"
+
+#~ msgid "Preview"
+#~ msgstr "Prévisualisation"
+
+#~ msgid ""
+#~ "This preview function lets you evaluate what would the image taxonomy be "
+#~ "compared to your current posts tagging"
+#~ msgstr ""
+#~ "Cette fonction permet d'évaluer les changements qui seraient apportés si "
+#~ "on applique aux posts la taxinomie image"
+
+#~ msgid ""
+#~ "After clicking this link you will be directed to the preview page. From "
+#~ "this page you will then have the choice to run an automatic retagging "
+#~ "batch"
+#~ msgstr ""
+#~ "Le lien vous conduira sur la page de prévisualisation. A partir de là "
+#~ "vous pourrez accepter de continuer grâce à un processus de re-tagging "
+#~ "automatique"
+
+#~ msgid "Tagging excluded tags"
+#~ msgstr "Tags exclus de la classification"
+
+#~ msgid ""
+#~ "List of comma separated tag names defined in your blog and that will not "
+#~ "appear in the Tag Editor above"
+#~ msgstr ""
+#~ "Liste de noms de tags définis dans le blog et qui seront exclus de "
+#~ "l'éditeur de tags ci-dessus, à séparer par une virgule"
+
+#~ msgid "Number of tags displayed per column"
+#~ msgstr "Nombre de tags affichés par colonne"
+
+#~ msgid ""
+#~ "Set this number to have a convenient columnar display of your tags in the "
+#~ "Tag Editor above, properly spread over the above available horizontal "
+#~ "space"
+#~ msgstr ""
+#~ "Régler cette valeur de manière à avoir un affichage des tags par colonne "
+#~ "équitablement réparti dans l'espace disponible ci-dessus."
+
+#~ msgid "Maximum image pixel width or height"
+#~ msgstr "Largeur ou hauteur d'image maximale (px)"
+
+#~ msgid ""
+#~ "Used to scale the images displayed on the Tag Editor above. The largest "
+#~ "of the (width, height) will be scaled to this number"
+#~ msgstr ""
+#~ "Utilisé pour redimensionner les images affichées ci-dessus dans l'éditeur "
+#~ "de tags. Le max(H,L) sera mis à l'échelle avec ce chiffre"
+
+#~ msgid "Image frame pixel width"
+#~ msgstr "Epaisseur de la bordure (px)"
+
+#~ msgid "This parameter sets the image border width"
+#~ msgstr "Règle la taille de bordure d'image"
+
+#~ msgid "Image frame color in hex format"
+#~ msgstr "Couleur de la bordure au format hexadécimal"
+
+#~ msgid "Search format"
+#~ msgstr "Format de recherche"
+
+#~ msgid "Search excluded tags"
+#~ msgstr "Tags exclus de la recherche"
+
+#~ msgid ""
+#~ "List of comma separated tag names defined in your blog and that will not "
+#~ "appear in the list of searchable tags"
+#~ msgstr ""
+#~ "Liste de noms de tags définis dans le blog et qui seront exclus de la "
+#~ "liste de tags affichés sur la page de recherche, à séparer par une virgule"
+
+#~ msgid "Default search display mode"
+#~ msgstr "Mode d'affichage de la recherche par défaut"
+
+#~ msgid "Tag cloud"
+#~ msgstr "Nuage de tags"
+
+#~ msgid "Search form"
+#~ msgstr "Formulaire de recherche"
+
+#~ msgid "Combined"
+#~ msgstr "Combiné"
+
+#~ msgid ""
+#~ "Tag cloud is more compact but does not allow the multi-criteria search "
+#~ "provided by the check boxes form."
+#~ msgstr ""
+#~ "Le nuage de tags est plus compact, mais ne permet pas la recherche "
+#~ "multicritères."
+
+#~ msgid ""
+#~ "The combined mode permits to refine the initial search done with the "
+#~ "cloud thanks to the form."
+#~ msgstr ""
+#~ "Le mode de recherche combiné permet d'affiner une recherche par le "
+#~ "formulaire après une recherche initiale par le nuage de tags."
+
+#~ msgid "Visitors can switch between available search formats"
+#~ msgstr "Mode d'affichage de recherche modifiable par les visiteurs"
+
+#~ msgid ""
+#~ "If \"yes\" is selected, the result page allows the user to dynamically "
+#~ "select the most appropriate search format"
+#~ msgstr ""
+#~ "Si \"oui\" est sélectionné, un lien sera présent pour basculer d'un mode "
+#~ "d'affichage de recherche vers un autre"
+
+#~ msgid ""
+#~ "Otherwise, format is fixed to default display style set above - "
+#~ "Javascript must be enabled in the navigator to use this capability"
+#~ msgstr ""
+#~ "Sinon, le mode d'affichage est fixe et déterminé par le paramétrage ci-"
+#~ "dessus - Le visiteur doit avoir accepté l'exécution de Javascript dans "
+#~ "son navigateur"
+
+#~ msgid "Number of tags displayed per column in form mode"
+#~ msgstr "Nombre de tags affichés par colonne en mode formulaire"
+
+#~ msgid ""
+#~ "Set this number to have a convenient columnar display of your tags in the "
+#~ "search section, properly spread over the available horizontal space"
+#~ msgstr ""
+#~ "Régler cette valeur de manière à avoir un affichage des tags par colonne "
+#~ "équitablement réparti dans le formulaire de recherche"
+
+#~ msgid "Search form font size (pt)"
+#~ msgstr "Taille de fonte du formulaire de recherche (pt)"
+
+#~ msgid ""
+#~ "Font size to be used for the search form made of check boxes and tags"
+#~ msgstr "Taille de la fonte à utiliser pour le formulaire de recherche"
+
+#~ msgid "Number of tags displayed in the tag cloud"
+#~ msgstr "Nombre de tags affichés dans le nuage de tags"
+
+#~ msgid ""
+#~ "Number of tags selected among the highest ranked displayed in the tag "
+#~ "cloud ; put 0 to get all the tags"
+#~ msgstr ""
+#~ "Nombre de tags à afficher parmi les occurences les plus fortes ; pour "
+#~ "avoir tous les tags, mettre 0"
+
+#~ msgid "Tag cloud order"
+#~ msgstr "Classement du nuage de  tags"
+
+#~ msgid "Alphabetical"
+#~ msgstr "Alphabétique"
+
+#~ msgid "Rank"
+#~ msgstr "Occurence"
+
+#~ msgid ""
+#~ "Select the appropriate option to have the tags ordered aphabetically, by "
+#~ "occurence or randomly, depending on your application"
+#~ msgstr ""
+#~ "Sélectionner l'option appropriée pour ordonner les tags alphabétiquement, "
+#~ "par occurence ou aléatoirement"
+
+#~ msgid ""
+#~ "Note that this ordering is applied after having selected the highest "
+#~ "ranking tags according to the parameter just above"
+#~ msgstr ""
+#~ "Cet ordonnancement intervient après avoir sélectionné les n tags les plus "
+#~ "utilisés, confirmément au paramètre ci-dessus"
+
+#~ msgid "Tag cloud minimum font size (pt)"
+#~ msgstr "Taille de fonte minimum pour le nuage de tags (pt)"
+
+#~ msgid "This parameter sets the font size for the least used tag"
+#~ msgstr "Règle la taille de fonte correspondant au tag le moins utilisé"
+
+#~ msgid "Tag cloud maximum font size (pt)"
+#~ msgstr "Taille de fonte maximum pour le nuage de tags (pt)"
+
+#~ msgid "This parameter sets the font size for the most used tag"
+#~ msgstr "Règle la taille de fonte correspondant au tag le plus utilisé"
+
+#~ msgid "Minimum tag cloud color in hex format"
+#~ msgstr "Couleur de fonte minimale pour le nuage de tags (hex)"
+
+#~ msgid ""
+#~ "Tag cloud dynamic colors : this font color will be used for the tags with "
+#~ "the lowest use. Set to -1 to not use dynamic colors"
+#~ msgstr ""
+#~ "Coloration graduelle du nuage de tags : cette couleur de fonte sera "
+#~ "utilisée pour les tags les moins utilisés. Régler à -1 pour ne pas "
+#~ "utiliser de couleurs graduelles"
+
+#~ msgid "Maximum tag cloud color in hex format"
+#~ msgstr "Couleur de fonte maximale pour le nuage de tags (hex)"
+
+#~ msgid ""
+#~ "Tag cloud dynamic colors : this font color will be used for the tags with "
+#~ "the highest use. Set to -1 to not use dynamic colors"
+#~ msgstr ""
+#~ "Coloration graduelle du nuage de tags : cette couleur de fonte sera "
+#~ "utilisée pour les tags les plus utilisés. Régler à -1 pour ne pas "
+#~ "utiliser de couleurs graduelles"
+
+#~ msgid "Tag cloud highlighting font color in hex format"
+#~ msgstr "Couleur de fonte de mise en valeur pour le nuage de tags"
+
+#~ msgid ""
+#~ "This font color is used to highlight the tags selected for a search ; "
+#~ "used also for the tag cloud hover effect when dynamic colors are used for "
+#~ "the tag cloud"
+#~ msgstr ""
+#~ "Couleur de fonte destinée à la mise en valeur du tag selectionné pour la "
+#~ "recherche ; également pour la couleur de fonte hover pour le nuage de "
+#~ "tags en couleurs graduelles"
+
+#~ msgid ""
+#~ "Set to -1 if you don't want hover effect in your tag cloud with dynamic "
+#~ "colors and if you don't want to highlight the selected tag"
+#~ msgstr ""
+#~ "Régler à -1 pour ne pas avoir d'effet de survol sur le nuage de tags avec "
+#~ "couleurs graduelles et si vous ne souhaitez pas mettre en valeur le tag "
+#~ "sélectionné"
+
+#~ msgid "Output format"
+#~ msgstr "Format résultat"
+
+#~ msgid "Default result display mode"
+#~ msgstr "Mode d'affichage des résultats par défaut"
+
+#~ msgid "Image gallery"
+#~ msgstr "Galerie d'images"
+
+#~ msgid "Image list"
+#~ msgstr "Liste d'images"
+
+#~ msgid "Title list"
+#~ msgstr "Liste de titres"
+
+#~ msgid ""
+#~ "Select gallery style for a condensed graphical output, title list for "
+#~ "pure text."
+#~ msgstr ""
+#~ "Sélectionner le style galerie pour un affichage graphique compact, la "
+#~ "liste de titre pour un résultat textuel."
+
+#~ msgid ""
+#~ "Images will be scaled in both cases using maximum image pixel width or "
+#~ "height specified below"
+#~ msgstr ""
+#~ "Les images seront redimensionnées dans tous les cas en fonction du "
+#~ "paramètre largeur ou hauteur maximale d'image ci-dessous"
+
+#~ msgid "Visitors can switch between available output formats"
+#~ msgstr "Mode d'affichage des résultats modifiable par les visiteurs"
+
+#~ msgid ""
+#~ "If \"yes\" is selected, the result page allows the user to dynamically "
+#~ "select the most appropriate output format"
+#~ msgstr ""
+#~ "Si \"oui\" est sélectionné, un lien sera présent pour basculer d'un mode "
+#~ "d'affichage des résultats vers un autre"
+
+#~ msgid ""
+#~ "Otherwise, format is fixed to default output style set above - Javascript "
+#~ "must be enabled in the navigator to use this capability"
+#~ msgstr ""
+#~ "Sinon, le mode d'affichage résultat est fixe et déterminé par le "
+#~ "paramétrage ci-dessus - Le visiteur doit avoir accepté l'exécution de "
+#~ "Javascript dans son navigateur"
+
+#~ msgid "Optimize thumbnail transfer"
+#~ msgstr "Optimiser le transfert d'images (galerie, liste d'images)"
+
+#~ msgid ""
+#~ "If \"Yes\" is selected, the GD graphic library will be used server side "
+#~ "to resize the images to the exact dimension used for displaying in the "
+#~ "client browser"
+#~ msgstr ""
+#~ "Si \"Oui\" est sélectionné, la librairie graphique GD est utilisée pour "
+#~ "redimensionner les images côté serveur à la taille d'affichage utilisée "
+#~ "dans le navigateur"
+
+#~ msgid ""
+#~ "Otherwise, the images will be transferred in full format and directly "
+#~ "resized in the browser"
+#~ msgstr ""
+#~ "Sinon les images sont transferrées en taille maxi et redimensionnées dans "
+#~ "le navigateur"
+
+#~ msgid ""
+#~ "For given server configurations, this optimization does not produce the "
+#~ "expected result"
+#~ msgstr ""
+#~ "Dans certains cas, cette optimisation ne donne pas les résultats attendus"
+
+#~ msgid ""
+#~ "When activating this option, check on your search page that the result "
+#~ "gallery or image list is displayed correctly"
+#~ msgstr ""
+#~ "En cas d'activation de cette option, vérifier sur la page résultat que "
+#~ "les galeries ou listes d'images sont correctement affichées"
+
+#~ msgid "If not, disable this option as proposed by default"
+#~ msgstr "Sinon, désactiver cette option comme proposé par défaut."
+
+#~ msgid ""
+#~ "This option is selectable only if the GD library is detected on the "
+#~ "server (check in the footnote below)"
+#~ msgstr ""
+#~ "Cette option n'est accessible que lorsque la librairie GD est détectée "
+#~ "sur le serveur (vérifier en bas de page le setup serveur)"
+
+#~ msgid "Gallery output format"
+#~ msgstr "Format résultat - Galerie"
+
+#~ msgid "Number of images per gallery page "
+#~ msgstr "Nombre d'images par page galerie"
+
+#~ msgid ""
+#~ "Number of images to be listed on the search result page in case the "
+#~ "display format is set to \"Gallery\""
+#~ msgstr ""
+#~ "Nombre d'images à afficher par page de résultat en mode d'affichage "
+#~ "\"galerie\""
+
+#~ msgid "Link on the gallery thumbnails points to "
+#~ msgstr "Les images présentées en mode galerie pointent vers"
+
+#~ msgid "Plain size image"
+#~ msgstr "Image grand format"
+
+#~ msgid "Post containing the image"
+#~ msgstr "Post contenant l'image"
+
+#~ msgid ""
+#~ "Select \"Plain size image\" to link the gallery thumbnails to the full "
+#~ "size image"
+#~ msgstr ""
+#~ "Sélectionner \"Image grand format\" pour que le lien des images vignettes "
+#~ "de la galerie pointe vers l'image pleine taille."
+
+#~ msgid ""
+#~ "Otherwise the thumbnails will be linked to the post where the image was "
+#~ "posted"
+#~ msgstr ""
+#~ "Sinon les vignettes pointeront vers le post dans lequel les images "
+#~ "apparaissent"
+
+#~ msgid "Maximum image pixel width or height "
+#~ msgstr "Largeur ou hauteur d'image maximale (px)"
+
+#~ msgid ""
+#~ "Used to scale the images displayed in gallery display mode on the Image "
+#~ "Tag Search Result Page. The largest of the (width, height) will be scaled "
+#~ "to this number"
+#~ msgstr ""
+#~ "Utilisé pour redimensionner les images affichées sur la page résultat en "
+#~ "mode galerie. Le max(H,L) sera mis à l'échelle avec ce chiffre"
+
+#~ msgid "Image frame pixel width "
+#~ msgstr "Epaisseur de la bordure (px)"
+
+#~ msgid ""
+#~ "Image border width used for the gallery display style. If border is set "
+#~ "to 0, images are displayed border to border"
+#~ msgstr ""
+#~ "Epaisseur de la bordure d'image en mode galerie. Si égal à 0, les images "
+#~ "seront présentées bord à bord"
+
+#~ msgid ""
+#~ "In case an image framing plugin or theme is activated, this setting will "
+#~ "be likely superseded by the specific framing theme or plugin"
+#~ msgstr ""
+#~ "Si la bordure des images est gérée par un plugin ou thème spécifique, le "
+#~ "réglage effectué par le plugin ou thème en question l'emportera "
+#~ "probablement sur ce paramètre."
+
+#~ msgid "Image border color in hex format "
+#~ msgstr "Couleur de la bordure en format hexadécimal"
+
+#~ msgid ""
+#~ "Image border color used to frame each gallery image. This parameter is "
+#~ "significant only if the image border set above is greater than 0"
+#~ msgstr ""
+#~ "Couleur de bordure d'image en mode galerie. Ce paramètre n'a d'effet que "
+#~ "pour une épaisseur de bordure  (ci-dessus) supérieure à 0"
+
+#~ msgid "Image list output format"
+#~ msgstr "Format résultat - Liste d'images"
+
+#~ msgid "Number of images per list page "
+#~ msgstr "Nombre d'images par page"
+
+#~ msgid ""
+#~ "Number of images to be listed on the search result page in case the "
+#~ "display format is set to \"Image list\""
+#~ msgstr ""
+#~ "Nombre d'images à afficher par page de résultat en mode d'affichage "
+#~ "\"liste d'images\""
+
+#~ msgid ""
+#~ "Used to scale the images displayed in itemized display mode on the Image "
+#~ "Tag Search Result Page. The largest of the (width, height) will be scaled "
+#~ "to this number"
+#~ msgstr ""
+#~ "Utilisé pour redimensionner les images affichées sur la page résultat en "
+#~ "mode liste d'images. Le max(H,L) sera mis à l'échelle avec ce chiffre"
+
+#~ msgid "Title list output format"
+#~ msgstr "Format résultat - Liste de titres"
+
+#~ msgid "Number of image titles per list page "
+#~ msgstr "Nombre de titres d'images  par page"
+
+#~ msgid ""
+#~ "Number of image titles to be listed on the search result page in case the "
+#~ "display format is set to \"Title list\""
+#~ msgstr ""
+#~ "Nombre de titres d''images à afficher par page de résultats en mode "
+#~ "d'affichage \"liste d'images\""
+
+#~ msgid "Misceallenous"
+#~ msgstr "Divers"
+
+#~ msgid "Audit database integrity"
+#~ msgstr "Vérification de l'intégrité de la base de données"
+
+#~ msgid "Audit"
+#~ msgstr "Vérifier"
+
+#~ msgid ""
+#~ "This preview function lets you evaluate the inconsistencies detected in "
+#~ "your WordPress database"
+#~ msgstr ""
+#~ "Cette fonction permet d'évaluer les anomalies détectées dans la base de "
+#~ "données WordPress"
+
+#~ msgid ""
+#~ "After clicking this link you will be directed to the preview page. From "
+#~ "this page you will then have the choice to run automatic cleanup batches"
+#~ msgstr ""
+#~ "Cliquer sur le lien lancera l'évaluation. A partir de là vous pourrez "
+#~ "accepter de corriger les anomalies par des fonctions appropriées"
+
+#~ msgid "Display credit line"
+#~ msgstr "Afficher la référence au plugin ImageTagger"
+
+#~ msgid ""
+#~ "A possibility is offered to not display the very tiny ImageTagger credit "
+#~ "line shown below the search form in plain format (not in widget)"
+#~ msgstr ""
+#~ "Il est possible de ne pas afficher la ligne de crédit ImageTagger sous le "
+#~ "formulaire de recherche (hors version widget)"
+
+#~ msgid ""
+#~ "Anyhow, be aware of the very significative work that was required to "
+#~ "develop this plugin to push it to what you can enjoy today"
+#~ msgstr ""
+#~ "Conservez toutefois à l'esprit que ce plugin représente un travail "
+#~ "important, qui a permis de parvenir au résultat que vous voyez aujourd'hui"
+
+#~ msgid ""
+#~ "If you decide not to show this line and assuming you like this plugin, I "
+#~ "let to your good willingness the possibility to include anywhere else on "
+#~ "your site"
+#~ msgstr ""
+#~ "Si vous décidez de ne pas afficher cette référence, je vous laisse juge "
+#~ "de la possibilité d'insérer ailleurs sur votre site"
+
+#~ msgid ""
+#~ "a credit line linking back to my home site (http://www.photos-dauphine."
+#~ "com)"
+#~ msgstr ""
+#~ "une mention relative au plugin ImageTagger, pointant vers la page "
+#~ "d'accueil http://www.photos-dauphine.com"
+
+#~ msgid "Update Options"
+#~ msgstr "Enregistrer les options"
+
+#~ msgid ""
+#~ "Review below the results you would get by applying the image taxonomy to "
+#~ "your posts"
+#~ msgstr ""
+#~ "Vérifiez les résultats ci-dessous ; ils vous montrent les changements qui "
+#~ "seront apportés"
+
+#~ msgid ""
+#~ "Only the posts showing discrepancies between original post tagging and "
+#~ "image taxonomy are listed"
+#~ msgstr ""
+#~ "Seuls les posts présentant des différences entre les tags d'origine et la "
+#~ "taxinomie image sont listés"
+
+#~ msgid ""
+#~ "If you agree with the tagging scheme modification, click the Update "
+#~ "button below"
+#~ msgstr "Si vous souhaitez poursuivre, cliquer sur le bouton Mettre à jour"
+
+#~ msgid ""
+#~ "The update process will modify the posts taxonomy and therefore your "
+#~ "WordPress database"
+#~ msgstr ""
+#~ "La mise à jour modifiera les tags associés aux posts et par là même "
+#~ "affectera la base de données WordPress"
+
+#~ msgid ""
+#~ "For this reason it is recommended to backup your database before to be "
+#~ "able to revert to the original setup if needed"
+#~ msgstr ""
+#~ "Pour cette raison un backup est recommandé. Cela fournira un point de "
+#~ "retour si vous souhaitez revenir à la taxinomie d'origine"
+
+#~ msgid "post needs to have its taxonomy updated."
+
+#~ msgid_plural "posts need to have their taxonomy updated."
+#~ msgstr[0] "post doit subir une mise à jour de sa taxinomie."
+#~ msgstr[1] "post doivent subir une mise à jour de leur taxinomie."
+
+#~ msgid "Update posts tags using image taxonomy"
+#~ msgstr "Mettre à jours les tags posts à partir de la taxinomie image"
+
+#~ msgid "Cancel"
+#~ msgstr "Abandonner"
+
+#~ msgid ""
+#~ "No update is required, the post taxonomy is already aligned on the image "
+#~ "taxonomy."
+#~ msgstr ""
+#~ "La taxinomie post est déjà alignée sur la taxinomie image. Une mise à "
+#~ "jour n'est pas requise."
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "Clean post revisions"
+#~ msgstr "Nettoyer les révisions de posts"
+
+#~ msgid "Clean post attachments"
+#~ msgstr "Nettoyer les images disjointes des posts"
+
+#~ msgid "Clean post taxonomy"
+#~ msgstr "Nettoyer la taxinomie post"
+
+#~ msgid "Clean image taxonomy"
+#~ msgstr "Nettoyer la taxinomie image"
+
+#~ msgid "Return"
+#~ msgstr "Retour"
+
+#~ msgid "Others"
+#~ msgstr "Autres"
+
+#~ msgid "image associated to tag"
+
+#~ msgid_plural "images associated to tag"
+#~ msgstr[0] "image associée au tag"
+#~ msgstr[1] "images associées au tag"
+
+#~ msgid "This blog does not hold any image."
+#~ msgstr "Le blog ne contient pas d'images."
+
+#~ msgid ""
+#~ "Start to create posts or pages containing images before trying to tag "
+#~ "images."
+#~ msgstr ""
+#~ "Commencez par créer des posts ou des pages contenant des images avant de "
+#~ "pouvoir associer ces images à des tags."
+
+#~ msgid "Images are already all tagged."
+#~ msgstr "Les images ont toutes été associées à des tags."
+
+#~ msgid ""
+#~ "To modify tagging, go to the Image Explorer view and select \"tagged "
+#~ "images\" or \"all images\"."
+#~ msgstr ""
+#~ "Pour modifier les affectations, passer en mode Explorateur d'images et "
+#~ "afficher les images taggées ou toutes les images."
+
+#~ msgid "There is no tagged image yet."
+#~ msgstr "Aucune image n'a encore été taggée."
+
+#~ msgid ""
+#~ "To start tagging, go to the Tag Editor view or select \"untagged images\" "
+#~ "or \"all images\" in the Image Explorer view."
+#~ msgstr ""
+#~ "Pour commencer à tagger, passer en mode Editeur de tags ou sélectionner "
+#~ "les images non taggées, ou toutes les images dans l'Explorateur d'images."
+
+#~ msgid "No tag was found in this blog"
+#~ msgstr "Aucun tag n'a été trouvé sur ce blog."
+
+#~ msgid "Start to create a list of tag that you will use to tag your images"
+#~ msgstr ""
+#~ "Commencez par créer une liste de tags auxquels vous pourrez ensuite "
+#~ "associer des images."
+
+#~ msgid "Original tag"
+
+#~ msgid_plural "Original tags"
+#~ msgstr[0] "Tag d'origine"
+#~ msgstr[1] "Tags d'origine"
+
+#~ msgid "New tag"
+
+#~ msgid_plural "New tags"
+#~ msgstr[0] "Nouveau tag"
+#~ msgstr[1] "Nouveaux tags"
+
+#~ msgid "Post revision cleanup : nothing to clean"
+#~ msgstr "Purge des révisions de posts : rien à purger"
+
+#~ msgid "Cleaning up table %s from post revisions"
+#~ msgstr "Purge des révisions de posts dans la table %s"
+
+#~ msgid "Running SQL : %s"
+#~ msgstr "Exécution de la requête SQL : %s"
+
+#~ msgid "Done"
+#~ msgstr "Effectué"
+
+#~ msgid "Post attachment cleanup : nothing to clean"
+#~ msgstr "Purge des inclusions post : rien à purger"
+
+#~ msgid "Cleaning up table %s from unused attachments"
+#~ msgstr "Purge des inclusions non référencées dans la table %s"
+
+#~ msgid "Post taxonomy cleanup : nothing to clean"
+#~ msgstr "Purge de la taxinomie post : rien à purger"
+
+#~ msgid ""
+#~ "Cleaning up table %s from entries referring to posts not having anymore "
+#~ "an entry in the posts table"
+#~ msgstr ""
+#~ "Purge de la table %s des entrées reliées à des posts n'étant plus "
+#~ "référencés dans la table posts"
+
+#~ msgid "Image taxonomy cleanup : nothing to clean"
+#~ msgstr "Purge de la taxinomie image : rien à purger"
+
+#~ msgid ""
+#~ "Cleaning up table %s from entries referring to images not having anymore "
+#~ "an entry in the posts table"
+#~ msgstr ""
+#~ "Purge de la table %s des entrées reliées aux images n'étant plus "
+#~ "référencées dans la table posts"
+
+#~ msgid "Check below the possibly detected database inconsistencies"
+#~ msgstr "Vérifier ci-dessous les anomalies potentiellement détectées"
+
+#~ msgid ""
+#~ "If you go for the cleanup, the process will delete some entries in the "
+#~ "posts, post taxonomy and image taxonomy table(s)"
+#~ msgstr ""
+#~ "Si vous choisissez de nettoyer, le process supprimera certaines entrées "
+#~ "dans les tables posts, taxinomie post et taxinomie image"
+
+#~ msgid ""
+#~ "For this reason it is mandatory to backup your database before to be able "
+#~ "to revert to the original database setup if needed"
+#~ msgstr ""
+#~ "Pour cette raison un backup est recommandé afin de garder la possibilité "
+#~ "de revenir à l'état d'origine si nécessaire"
+
+#~ msgid ""
+#~ "In any case, read entirely the list of impacted entries shown in the "
+#~ "analysis below before deciding to cleaning up"
+#~ msgstr ""
+#~ "Il est indispensable de lire dans le détail l'analyse de la liste "
+#~ "d'entrées impactées, fournie ci-dessous"
+
+#~ msgid ""
+#~ "Given the dependencies, execute the following sequence partially or "
+#~ "totally, assuming you have the proper understanding of the consequences "
+#~ "on your database"
+#~ msgstr ""
+#~ "En raison des dépendances, exécuter la séquence suivante partiellement ou "
+#~ "totallement, partant du principe que vous avez la bonne compréhension des "
+#~ "implications sur votre base de données"
+
+#~ msgid "If any doubt, do not run the cleanup sequence you are not clear with"
+#~ msgstr "En cas de doute, ne pas exécuter la purge correspondante"
+
+#~ msgid "Left-over post revisions (table %s)"
+#~ msgstr "Révisions de posts (table %s)"
+
+#~ msgid ""
+#~ "This step does not induce any risk of data loss. It will erase posts "
+#~ "revisions automatically created and not needed anymore"
+#~ msgstr ""
+#~ "Cette purge n'induit pas de risque de perte de données. Les révisions de "
+#~ "posts créées automatiquement seront effacées"
+
+#~ msgid "Media library elements not included in any post content (table %s)"
+#~ msgstr ""
+#~ "Elements de la librairie de médias n'apparaissant dans aucun contenu de "
+#~ "post (table %s)"
+
+#~ msgid ""
+#~ "This step might present risk of data loss and requires proper "
+#~ "understanding and judgment ; it will remove attachments from the table if "
+#~ "this attachment does not appear anywhere in any of the posts content. Do "
+#~ "not use it if you created a media library with items not included in the "
+#~ "posts, and still want to keep this library unchanged"
+#~ msgstr ""
+#~ "Cette purge peut conduire dans certains cas à une perte de données, et "
+#~ "requiert une bonne compréhension des mécanismes sous-jacents ; les pièces "
+#~ "jointes (\"attachments\") de la table seront supprimés si ces pièces "
+#~ "jointes n'apparaissent pas dans aucun des contenus des posts. Ne pas "
+#~ "utiliser si les fichiers chargés dans la librairie média ne sont pas "
+#~ "inclus dans les posts et si vous souhaitez garder votre bibliothèque de "
+#~ "médias intacte"
+
+#~ msgid "Left-over post taxonomies (table %s)"
+#~ msgstr "Taxinomies de posts orphelines (table %s)"
+
+#~ msgid ""
+#~ "This step does not induce any risk of data loss. It will erase from the "
+#~ "post taxonomy table post IDs still tagged but not present anymore in the "
+#~ "posts table as attachment entries"
+#~ msgstr ""
+#~ "Cette purge ne présente pas de risque de perte de données. Elle "
+#~ "supprimera de la table de taxinomie posts les IDs correspondant aux posts "
+#~ "encores taggés bien que n'ayant plus d'entrée associée plus dans la table "
+#~ "post"
+
+#~ msgid "Left-over image taxonomies (table %s)"
+#~ msgstr "Taxinomies images orphelines (table %s)"
+
+#~ msgid ""
+#~ "This step does not induce any risk of data loss. It will erase from the "
+#~ "image taxonomy table image IDs still tagged but not present anymore in "
+#~ "the posts table as attachment entries"
+#~ msgstr ""
+#~ "Cette purge ne présente pas de risque de perte de données. Elle "
+#~ "supprimera de la table de taxinomie images les IDs correspondant aux "
+#~ "images encores taggées bien que n'ayant plus d'entrée associée plus dans "
+#~ "la table post"
+
+#~ msgid "Information only : Images remaining untagged (table %s)"
+#~ msgstr "A titre d'information : images non taggées (table %s)"
+
+#~ msgid ""
+#~ "This analysis provides you the list of untagged images. To fix situation "
+#~ "where images would remain untagged, go to the ImageTagger Tag Editor and "
+#~ "complete the job"
+#~ msgstr ""
+#~ "Cette analyse présente la liste des images non taggées. Si des images ne "
+#~ "sont pas encore taggées, aller dans l'Editeur de Tags image tagger pour "
+#~ "leur associer des tags"
+
+#~ msgid ""
+#~ "The benefit of this cleanup is to reduce your database to the only "
+#~ "required information, therefore improving site reactivity and decreasing "
+#~ "required processing power"
+#~ msgstr ""
+#~ "L'intérêt de ce nettoyage consiste à réduire la base de données à la "
+#~ "somme des informations utiles. Cela améliorera la réactivité du site et "
+#~ "réduira la puissance de calcul demandée"
+
+#~ msgid "Analysis result"
+#~ msgstr "Résultat de l'analyse"
+
+#~ msgid "No left-over post revision found - No cleanup needed"
+#~ msgstr "Aucune révision de post détectée - Nettoyage non requis"
+
+#~ msgid "Media library elements not included in any post (table %s)"
+#~ msgstr ""
+#~ "Elements de la librairie média non inclus dans aucun des posts (table %s)"
+
+#~ msgid "No orphean attachment found - no cleanup needed"
+#~ msgstr "Pas d'inclusion orpheline détectée - Nettoyage non requis"
+
+#~ msgid "No left-over post taxonomy found - no cleanup needed"
+#~ msgstr "Pas de taxinomie post orpheline détectée - Nettoyage non requis"
+
+#~ msgid "No left-over image taxonomy found - no cleanup needed"
+#~ msgstr "Pas de taxinomie image orpheline détectée - Nettoyage non requis"
+
+#~ msgid "All the images are tagged, you made it well !"
+#~ msgstr "Toutes les images sont taggées, bravo !"
+
+#~ msgid "Text"
+#~ msgstr "Texte"
+
+#~ msgid "Number of displayed tags"
+#~ msgstr "Nombre de tags affichés"
+
+#~ msgid "Minimum font size"
+#~ msgstr "Taille de fonte minimum"
+
+#~ msgid "Maximum font size"
+#~ msgstr "Taille de fonte maximum"
+
+#~ msgid "Minimum font color (-1 to disable)"
+#~ msgstr "Couleur de fonte min (-1 : inactif)"
+
+#~ msgid "Maximum font color (-1 to disable)"
+#~ msgstr "Couleur de fonte max (-1 : inactif)"
+
+#~ msgid "Result page address"
+#~ msgstr "Adresse de la page résultat"
+
+#~ msgid ""
+#~ "Display your ImageTagger tag cloud in the sidebar. Before that, you need "
+#~ "to have properly tagged your images in the ImageTagger plugin Admin Panel "
+#~ "and have as well setup a result page that you will use as your tag cloud "
+#~ "target page"
+#~ msgstr ""
+#~ "Affichez le nuage de tags ImageTagger dans la colonne latérale. Avant "
+#~ "tout, vous devez avoir taggé vos images dans le panneau d'administration "
+#~ "du plugin ImageTagger, et avoir également défini une page résultat qui "
+#~ "sera utilisée comme page cible pour le nuage de tags."
+
+#~ msgid ""
+#~ "The direct PHP call to the ImageTagger plugin core function "
+#~ "wpit_multisort_insert() is deprecated starting version 2.5.2 of this "
+#~ "plugin."
+#~ msgstr ""
+#~ "L'appel direct à la fonction PHP du plugin wpit_multisort_insert() est "
+#~ "obsolète à partir de la version 2.5.2."
+
+#~ msgid ""
+#~ "It is finally disabled starting version 2.5.4.5 and needs to be replaced "
+#~ "by its shortcode equivalent. This does not require anymore running PHP in "
+#~ "your page."
+#~ msgstr ""
+#~ "Cette syntaxe est désactivée à partir de la version 2.5.4.5 et doit être "
+#~ "remplacée par la forme équivalente shortcode. Cela ne nécessite plus "
+#~ "d'exécuter du code PHP dans la page."
+
+#~ msgid ""
+#~ "That's a very simple modification, please refer for this purpose to the "
+#~ "WP ImageTagger "
+#~ msgstr ""
+#~ "La modification à apporter est très simple et rapide, se reporter au "
+
+#~ msgid "installation guide"
+#~ msgstr "guide d'installation"
+
+#~ msgid " and "
+#~ msgstr " du plugin WP ImageTagger ainsi qu'à la "
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "Search display"
+#~ msgstr "Format de recherche"
+
+#~ msgid "Display the search form as a tag cloud"
+#~ msgstr "Effectuer la recherche à partir d'un nuage de tags"
+
+#~ msgid "Display the search form as a check boxes form"
+#~ msgstr "Effectuer la recherche à partir d'un formulaire multicritères"
+
+#~ msgid "Form"
+#~ msgstr "Formulaire"
+
+#~ msgid ""
+#~ "Display the search form as a combination of the tag cloud and check boxed "
+#~ "form"
+#~ msgstr ""
+#~ "Effectuer la recherche à partir d'un nuage de tags couplé à un formulaire "
+#~ "multicritères"
+
+#~ msgid "occurence"
+
+#~ msgid_plural "occurences"
+#~ msgstr[0] "occurence"
+#~ msgstr[1] "occurences"
+
+#~ msgid ""
+#~ "None of the selected tag(s) match existing tags. The image search URL "
+#~ "should be composed as http://www.mysite.com/library?tags=tag1+tag2+..."
+#~ "+tagN, where http://www.mysite.com/library is the search result page. "
+#~ "Check the spelling of the tag slugs"
+#~ msgstr ""
+#~ "Aucun des tags recherchés n'est reconnu sur le site. L'URL de recherche "
+#~ "d'image doit être composée de la manière suivante :  http://www.mysite."
+#~ "com/library?tags=tag1+tag2+...+tagN, où  http://www.mysite.com/library "
+#~ "correspond à la page d'affichage du résultat de la recherche. Vérifier la "
+#~ "syntaxe des identifiants de tags (slugs)"
+
+#~ msgid ""
+#~ "You can search an image by theme either with the tag cloud above or "
+#~ "selecting appropriate keywords below and clicking OK."
+#~ msgstr ""
+#~ "La recherche peut s'effectuer par thème grâce au nuages de tags ci-dessus "
+#~ "ou par la sélection des mots-clefs appropriés ci-dessous."
+
+#~ msgid ""
+#~ "You can search an image by theme by selecting appropriate keywords below "
+#~ "and clicking OK."
+#~ msgstr ""
+#~ "Pour effectuer une recherche par thème, sélectionner les mots-clefs "
+#~ "appropriés et cliquer sur OK."
+
+#~ msgid "no image found matching this criteria list"
+#~ msgstr "aucune image trouvée"
+
+#~ msgid "image found"
+
+#~ msgid_plural "images found"
+#~ msgstr[0] "image trouvée"
+#~ msgstr[1] "images trouvées"
+
+#~ msgid "Results display"
+#~ msgstr "Format résultat"
+
+#~ msgid "Display the results as an image gallery"
+#~ msgstr "Afficher les résultats sous forme de galerie"
+
+#~ msgid "Gallery"
+#~ msgstr "Galerie"
+
+#~ msgid "Display the results as an itemized image list"
+#~ msgstr "Afficher les résultats sous forme de liste d'images"
+
+#~ msgid "Itemized"
+#~ msgstr "Liste d'images"
+
+#~ msgid "Display the results as an image title list"
+#~ msgstr "Afficher les résultats sous forme de liste d'images"
+
+#~ msgid "Titles"
+#~ msgstr "Liste de titres"
+
+#~ msgid "Display image"
+#~ msgstr "Afficher l'image"
+
+#~ msgid "image %d to %d"
+
+#~ msgid_plural "images %d to %d"
+#~ msgstr[0] "image %d à %d"
+#~ msgstr[1] "images %d à %d"
+
+#~ msgid "Click to display previous page"
+#~ msgstr "Aller à la page précédente"
+
+#~ msgid "previous"
+#~ msgstr "précédente"
+
+#~ msgid "Click to display next page"
+#~ msgstr "Aller à la page suivante"
+
+#~ msgid "next"
+#~ msgstr "suivante"
+
+#~ msgid "Offer an image search engine to your blog with"
+#~ msgstr "Offrez à votre blog un moteur de recherche d'images avec"
+
+#~ msgid ""
+#~ "Given the dependencies, proceed in order 1 (posts revision cleanup), 2 "
+#~ "(post attachment cleanup), 3 (post taxonomy cleanup) and 4 (image "
+#~ "taxonomy cleanup)"
+#~ msgstr ""
+#~ "En raison des dépendances entre tables, effectuer dans l'ordre 1 "
+#~ "(nettoyage révisions posts), 2 (nettoyage images incluses posts), 3 "
+#~ "(nettoyage taxinomie post) et 4 (nettoyage taxinomie image)"
+
+#~ msgid ""
+#~ "These table entries are automated post backups saved every time you "
+#~ "created a post"
+#~ msgstr ""
+#~ "Cette entrées de table correspondent à des sauvegardes de posts sauvées à "
+#~ "chaque édition de post"
+
+#~ msgid ""
+#~ "Depending on your WordPress configuration, you can have multiple backup "
+#~ "revisions for a given post (which is a problem this consistently grows "
+#~ "the database with un-needed information)"
+#~ msgstr ""
+#~ "En fonction de votre configuration WordPress, vous pouvez vous retrouver "
+#~ "avec plusieurs révisions par post (ce qui peut devenir problématique en "
+#~ "raison de l'encombrement produit par la quantité d'information inutile)"
+
+#~ msgid "They can be removed without risk of data loss from the POSTS table"
+#~ msgstr ""
+#~ "Ces entrées peuvent être supprimées de la table POSTS sans risque de "
+#~ "perte de données"
+
+#~ msgid "Left-over post attachments"
+#~ msgstr "Inclusions de posts orphelines"
+
+#~ msgid "These attachments were originally part of a post that was deleted"
+#~ msgstr ""
+#~ "Ces inclusions faisaient originellement partie d'un post supprimé entre "
+#~ "temps"
+
+#~ msgid ""
+#~ "It might also be possible that the originally referring post is still "
+#~ "there, but the reference to the attachment was removed"
+#~ msgstr ""
+#~ "Il se peut également que le post originel soit là, mais que la référence "
+#~ "au document ait été supprimée"
+
+#~ msgid ""
+#~ "Note that the attachment file itself will remain in the upload directory"
+#~ msgstr ""
+#~ "Noter que le fichier lui-même restera physiquement dans le répertoire "
+#~ "d'upload"
+
+#~ msgid ""
+#~ "These post IDs are still tagged although they do not appear anymore in "
+#~ "the POST table"
+#~ msgstr ""
+#~ "Ces IDs de posts sont encore taggés alors qu'ils ne sont plus présents "
+#~ "dans la table POST"
+
+#~ msgid ""
+#~ "The corresponding entries can be removed without risk of data loss from "
+#~ "the post taxonomy table"
+#~ msgstr ""
+#~ "Les entrées correspondantes peuvent être supprimées sans risque de perte "
+#~ "de données de la table de taxinomies posts"
+
+#~ msgid ""
+#~ "These image IDs are still tagged although they do not appear anymore in "
+#~ "the POST table"
+#~ msgstr ""
+#~ "Ces IDs images sont encore taggés alors qu'ils ne sont plus présents dans "
+#~ "la table POST"
+
+#~ msgid ""
+#~ "The corresponding entries can be removed without risk of data loss from "
+#~ "the image taxonomy table"
+#~ msgstr ""
+#~ "Les entrées correspondantes peuvent être supprimées sans risque de perte "
+#~ "de données de la table de taxinomies images"
+
+#~ msgid "Information only"
+#~ msgstr "Pour information"
+
+#~ msgid "These images can be tagged in the ImageTagger admin panel"
+#~ msgstr ""
+#~ "Ces images peuvent être taggées depuis l'éditeur de tags ImageTagger"
+
+#~ msgid ""
+#~ "No pain, these images will simply not appear in the image search results"
+#~ msgstr ""
+#~ "Rien de grave, ces images n'apparaitront simplement pas dans les "
+#~ "résultats de recherche d'images"
